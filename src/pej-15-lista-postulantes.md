@@ -16,3 +16,6 @@ Componente que muestra la lista de candidatos que se han postulado a una vacante
 
 ## Estado vacío
 Si la vacante no tiene postulantes, se muestra el mensaje: "Aún no hay postulaciones para esta vacante."
+
+## Navegación al perfil
+Al hacer clic en el nombre de un candidato, se navega a su perfil completo (ruta /perfiles/{id}).
