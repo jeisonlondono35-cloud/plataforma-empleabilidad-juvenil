@@ -8,3 +8,8 @@ Componente que muestra la lista de candidatos que se han postulado a una vacante
 
 - Se accede desde el detalle de la vacante.
 - Consulta los postulantes asociados al id de la vacante.
+
+## Campos mostrados por candidato
+- Nombre del candidato.
+- - Perfil resumido.
+  - - Fecha de postulación.
