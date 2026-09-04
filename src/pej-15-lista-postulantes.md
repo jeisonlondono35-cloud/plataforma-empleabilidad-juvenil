@@ -11,5 +11,8 @@ Componente que muestra la lista de candidatos que se han postulado a una vacante
 
 ## Campos mostrados por candidato
 - Nombre del candidato.
-- - Perfil resumido.
-  - - Fecha de postulación.
+- Perfil resumido.
+- Fecha de postulación.
+
+## Estado vacío
+Si la vacante no tiene postulantes, se muestra el mensaje: "Aún no hay postulaciones para esta vacante."
